@@ -7,7 +7,7 @@ Dosyayı açtığınızda 0.php adlı dosyayı otomatik olarak çekip sunucuya y
 ## 🚀 Kullanım
 
 1. form.php Dosyasını sunucuya yükleyin.
-2. İlgili dosyayı sunucya yüklemek için için "Alfa Yükle (Şifreli)" butonuna tıklayın.
+2. İlgili dosyayı sunucuya yüklemek için için "Alfa Yükle" butonuna tıklayın.
 3. Dosya GitHub'dan çekilecek ve sunucuya yüklenecek.
 4. Yükleme tamamlandıktan sonra, dosyanın linki alt kısımda görünecektir.
 
