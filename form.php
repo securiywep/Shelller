@@ -99,6 +99,13 @@
             text-shadow: 0 0 5px #0f0;
             animation: glitch 0.2s infinite alternate;
         }
+        body{
+            position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: #000 url(https://www.turkhacks.com/styles/darkgreen/bg.gif);
+        }
     </style>
 </head>
 <body>
